@@ -170,4 +170,4 @@ You can also discuss this library on our [Discord server](https://discord.gg/hYs
 [Maps Static API]: https://developers.google.com/maps/documentation/maps-static/
 
 [issues]: https://github.com/googlemaps/google-maps-services-go/issues
-[contrib]: https://github.com/googlemaps/google-maps-services-go/blob/master/CONTRIB.md
+[contrib]: https://github.com/googlemaps/google-maps-services-go/blob/master/CONTRIB.as
